@@ -1,0 +1,43 @@
+.registro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 35%;
+  background-color: rgb(243, 237, 237);
+  width: 30vw;
+  height: 70vh;
+  border-radius: 5%;
+}
+
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  height: 100vh;
+
+}
+
+body {
+background: linear-gradient(45deg, rgb(221, 79, 13) 0%, rgb(248, 248, 248) 100%);
+}
+.row{
+  gap: 10px;
+  margin: 10px;
+}
+.formu1{
+  margin-bottom: 5px;
+}
+.formu2{
+  margin: 5px;
+}
+.formu3{
+  margin: 5px;
+}
+.formu4{
+  margin: 5px;
+}
+button{
+  margin: 5px;
+}
